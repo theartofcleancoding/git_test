@@ -1,1 +1,1 @@
-Hello World, this is me creating the first git repository, exercising my abilities on this very first exercise extract from the Odin Project (https://www.theodinproject.com/lessons/foundations-git-basics).
+Hello World, this is me creating the first git repository, exercising my abilities on this very first exercise extracted from the Odin Project (https://www.theodinproject.com/lessons/foundations-git-basics).
